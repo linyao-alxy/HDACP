@@ -84,7 +84,7 @@ const baseUrl = import.meta.env.BASE_URL
           
           <!-- Projects -->
           <section v-if="teacher.projects?.length" class="detail-section">
-            <h3>主持/参与科研项目</h3>
+            <h3>主持的人才及科研项目</h3>
             <div class="projects-list">
               <div v-for="(project, idx) in teacher.projects" :key="idx" class="project-item">
                 <div class="project-header">
