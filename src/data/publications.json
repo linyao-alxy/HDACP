@@ -4,7 +4,9 @@
     {
       "content": "[PPoPP] PANA: A Fine-Grained Runtime-Adaptive Load Balancing for Parallel SpMV on Multicore CPUs",
       "link": "https://dblp.dagstuhl.de/rec/conf/ppopp/BianZF0026.html"
-    }]
+    }
+    
+  ]
     } ,
     {
 
@@ -13,7 +15,79 @@
       {
         "content": "[ICDE] EDTC: Exact Triangle Counting for Dynamic Graphs on GPU",
         "link": "https://ieeexplore.ieee.org/document/11223785"
+     },
+     {
+      "content":"Exact triangle counting system for GPU dynamic graphs based on updated edges（CCF A）"
+     },
+     {
+      "content":"Qklu: a two-dimensional block-cyclic sparse direct solver（SCI、CCF C）"
+     },
+     {
+      "content":"Robust low-rank representation on anchor graph with self-attention（SCI、CCF B）"
+     },
+     {
+      "content":"Octree-STCM: Octree-Based Spatio-Temporal Context Model for Lossless Geometry Compression of Dynamic Point Cloud（CCF B）"
+     },
+     {
+      "content":"面向 AVS 点云压缩标准的八叉树上下文模型优化（CSCD）"
+     },
+     {
+      "content":"基于 YOLOv5 和改进 DeeplabV3 + 的青藏高原植被提取算法（CSCD）"
+     },
+     {
+      "content":"基于梯度提升回归树的三江源植被指数预测方法研究（CSCD）"
+     },
+     {
+      "content":"A Fast and Lightweight Model for Causal Audio-Visual Speech Separation（CCF B）"
+     },
+     {
+      "content":"Single Image Super-Resolution Through Image Pixel Information Clustering and Generative Adversarial Network（SCI、中科院一区）"
+     },
+     {
+      "content":"Plastic Distillation and Local Class Augment for Federated Class Incremental Learning（SCI、中科院一区）"
+     },
+     {
+      "content":"Collaborative pseudo-label transfer for few-shot unsupervised domain adaptation（SCI、CCF C）"
+     },
+     {
+      "content":"Research on Parallel Weighted Back-Projection Algorithm on Multi-CPU（CCF C）"
+     },
+     {
+      "content":"An Efficient Parallel Ordered Depth‐First Search Strategy for Directed Acyclic Graphs"
      }
+    ]
+  },
+  {
+    "year": "2024",
+    "items": [
+      {
+        "content":"StepTC: Stepwise Triangle Counting on GPU with Two Efficient Set Intersection Methods（CCF B）"
+      },
+      {
+        "content":"DisRot: boosting the generalization capability of few-shot learning（SCI）"
+      },
+      {
+        "content":"A dual-difference change detection network for detecting building changes on high-resolution remote sensing images（SCI）"
+      }
+    ]
+  },
+  {
+     "year": "2022",
+    "items": [
+      {
+        "content":"Large-Scale Graph Triangle-Counting on a single Machine using GPUs（CCF A）"
+      },
+      {
+        "content":"Helmholtz solving and performance optimization in the Global/Regional Assimilation and Prediction System（SCI一区）"
+      }
+    ]
+  },
+  {
+    "year":"2021",
+    "items":[
+      {
+        "content":"DFOGraph: An I/O- and Communication-Efficient System for Distributed Fully-out-of-Core Graph Processing（CCF A）"
+      }
     ]
   },
   {
@@ -118,6 +192,15 @@
       {
         "content": "Wajid Rafique, Lianyong Qi, Ibrar Yaqoob, Muhammad Imran, Raihan ur Rasool, Wanchun Dou. \"Internet of Things Services Orchestration Using Software-Defined Networking and Edge Computing: A Survey on Architecture, Requirements, Standardization, and Security\". IEEE Communications Surveys and Tutorials. 2020. Accepted",
         "link": ""
+      },
+      {
+        "content":"CSR2: A New Format for SIMD-accelerated SpMV（CCGRID）"
+      },
+      {
+        "content":"ALBUS: A Method for Efficiently Processing SpMV Using SIMD and Load Balancing（SCI 一区）"
+      },
+      {
+        "content":"A Survey of Single Image Super Resolution Reconstruction（SCI）"
       }
     ]
   },
